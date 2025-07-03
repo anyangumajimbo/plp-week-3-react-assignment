@@ -92,14 +92,18 @@ pnpm run preview
 * `pnpm preview` – Preview the production build locally
 
 ---
+## 🖼️ Screenshots
 
-## 🖼️ Screenshots (Optional)
+### 🌞 Light Mode
+![Light Mode](./public/screens/Light_Mode.png)
 
-You can include UI screenshots here to showcase:
+### ✅ Task Manager in Use
+![Task Manager](./public/screens/TaskManager-in_use.png)
 
-* Light and dark mode
-* TaskManager in action
-* UserList API display
+### 🌐 API Data Display
+![User List 1](./public/screens/API_User_List_1.png)
+![User List 2](./public/screens/API_User_List_2.png)
+
 
 ---
 
