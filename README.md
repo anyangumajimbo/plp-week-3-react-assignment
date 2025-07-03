@@ -120,7 +120,16 @@ Live Site: [https://plp-week-3-react-assignment.vercel.app/](https://plp-week-3-
 
 This project is **complete**, deployed, and meets all Week 3 objectives:
 
-*
++ [x] Add / Complete / Delete tasks
++ [x] Filter tasks (All, Active, Completed)
++ [x] Persist data with localStorage
++ [x] Theme toggle with Context API
++ [x] Custom hooks
++ [x] Fetch and display API data
++ [x] Responsive UI (mobile + desktop)
++ [x] Code pushed to GitHub
++ [x] Project deployed via Vercel
+
 
 ---
 
