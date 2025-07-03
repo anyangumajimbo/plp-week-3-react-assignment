@@ -21,7 +21,7 @@ return (
   <div className="bg-white dark:bg-gray-800 overflow-hidden shadow rounded-lg p-6">
     <div className="flex flex-col items-center justify-center">
       <p className="text-lg mb-4">
-        Edit <code className="font-mono bg-gray-200 dark:bg-gray-700 p-1 rounded">src/App.jsx</code> and save to test HMR
+        Keep track of your tasks and stay productive!
       </p>
 
       <div className="flex items-center gap-4 my-4">
@@ -41,7 +41,7 @@ return (
       </div>
 
       <p className="text-gray-500 dark:text-gray-400 mt-4">
-        Implement your TaskManager component here
+        Stay organized – start adding your tasks!
       </p>
       <TaskManager />
 
