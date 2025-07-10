@@ -18,7 +18,7 @@ function App() {
 return (
   
   <Layout>
-  <div className="bg-white dark:bg-gray-800 overflow-hidden shadow rounded-lg p-6">
+  <div className="overflow-hidden shadow rounded-lg p-6">
     <div className="flex flex-col items-center justify-center">
       <p className="text-lg mb-4">
         Keep track of your tasks and stay productive!
@@ -65,10 +65,10 @@ return (
       </div>
 
       {/* API Placeholder */}
-      <div className="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow rounded-lg p-6">
-        <h2 className="text-2xl font-bold mb-4">API Data</h2>
-        <UserList />
-      </div>
+<div className="mt-8 overflow-hidden shadow rounded-lg p-6">
+  <h2 className="text-2xl font-bold mb-4">API Data</h2>
+  <UserList />
+</div>
     </Layout>
   );
 }

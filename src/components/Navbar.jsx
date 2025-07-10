@@ -14,7 +14,7 @@ const Navbar = () => {
           onClick={toggleTheme}
           className="ml-auto px-4 py-2 text-sm rounded bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-white hover:bg-gray-300 dark:hover:bg-gray-600 transition"
         >
-          {theme === 'dark' ? 'Light Mode' : 'Dark Mode'}
+          {theme === 'dark' ? 'Dark Mode' : 'Light Mode'}
         </button>
       </div>
     </nav>
